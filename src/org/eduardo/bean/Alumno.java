@@ -6,7 +6,7 @@ public class Alumno {
     private int telefono;
     private String correo;
     private int codigo;
-
+// comentario
     public String getNombre() {
         return nombre;
     }
